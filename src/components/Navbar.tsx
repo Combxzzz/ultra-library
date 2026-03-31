@@ -3,7 +3,7 @@ export function Navbar() {
         <nav className="w-full bg-black/20 backdrop-blur-md text-white px-6 py-4 flex items-center justify-between shadow-lg border-b border-white/10">
             <div className="flex items-center">
                 <img
-                    src="/icon.png"
+                    src="/ultra-library/icon.png"
                     alt="Ultra Library Icon"
                     className="w-8 h-8 mr-2"
                 />
