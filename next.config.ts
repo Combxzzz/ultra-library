@@ -6,8 +6,8 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/ultra-library',
-  assetPrefix: '/ultra-library',
+  basePath: '/Ultra-Library',
+  assetPrefix: '/Ultra-Library',
 };
 
 export default nextConfig;
