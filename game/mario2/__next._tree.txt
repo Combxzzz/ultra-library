@@ -1,4 +1,4 @@
-:HL["/Ultra-Library/_next/static/chunks/0vr1f2y2h_ajb.css","style"]
-:HL["/Ultra-Library/_next/static/media/797e433ab948586e-s.p.0.q-h669a_dqa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/Ultra-Library/_next/static/media/caa3a2e1cccd8315-s.p.16t1db8_9y2o~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"game","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"mario2","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"85ZJDXoiHV-EN15zO5L0k"}
+:HL["/ultra-library/_next/static/chunks/0vr1f2y2h_ajb.css","style"]
+:HL["/ultra-library/_next/static/media/797e433ab948586e-s.p.0.q-h669a_dqa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ultra-library/_next/static/media/caa3a2e1cccd8315-s.p.16t1db8_9y2o~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"game","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"mario2","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"vrsz8S2IhrpkqXy4Z-lfc"}
