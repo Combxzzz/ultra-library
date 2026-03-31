@@ -20,6 +20,7 @@ export default async function GamePage({ params }: PageProps) {
 
     if (!game) {
         return (
+
             <div className="bg-linear-to-br from-zinc-950 via-zinc-900 to-zinc-800 min-h-screen flex flex-col">
                 <Navbar />
                 <div className="flex-1 flex justify-center items-center">
