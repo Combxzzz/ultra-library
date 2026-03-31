@@ -5,6 +5,12 @@ import { games } from "@/features/games/data/games";
 import { GamePlayer } from "@/features/emulator/GamePlayer";
 import { Navbar } from "@/components/Navbar";
 
+export function generateStaticParams() {
+    return games.map((game) => ({
+        id: game.id,
+    }));
+}
+
 export default function GamePage() {
     const params = useParams();
     const router = useRouter();
